@@ -8,7 +8,7 @@
 <p align="center">
 <img src="sample/res50_age_edit_1024p.png" width="800px"/>
 <br>
-The demo of different style of age edit.</p>
+The demo of different style with age edit.</p>
 
 ## Description  
 
@@ -44,13 +44,20 @@ The demo of different style of e4e-res50-1024p.</p>
 <p align="center">
 <img src="sample/res50_age_edit_1024p.png" width="800px"/>
 <br>
+The demo of different style with age edit of e4e-res50-1024p
+<br>
 <img src="sample/res50_gender_edit_1024p.png" width="800px"/>
+<br>
+The demo of different style with gender edit of e4e-res50-1024p
 <br>
 <img src="sample/res50_pose_edit_1024p.png" width="800px"/>
 <br>
+The demo of different style with pose edit of e4e-res50-1024p
+<br>
 <img src="sample/res50_smile_edit_1024p.png" width="800px"/>
 <br>
-The demo of different style edit of e4e-res50-1024p.</p>
+The demo of different style with smile edit of e4e-res50-1024p
+
 
 
 ## Pretrained Models   
