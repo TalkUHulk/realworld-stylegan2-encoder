@@ -1,5 +1,7 @@
 # RealWorld StyleGan2 Encoder
-  <img src="https://img.shields.io/badge/python3-pytorch-orange"></a>
+  <img src="https://img.shields.io/badge/python-3-green"></a>
+  <img src="https://img.shields.io/badge/pytorch-1.9-yellowgreen"></a>
+  <img src="https://img.shields.io/badge/openvino-2021.4-green"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 
 
