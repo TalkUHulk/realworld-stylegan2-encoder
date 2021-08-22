@@ -1,0 +1,6 @@
+[submodule "e4eMbv3"]
+	path = e4eMbv3
+	url = https://github.com/TalkUHulk/encoder4editing-mobilenetv3.git
+[submodule "pSpMbv3"]
+	path = pSpMbv3
+	url = https://github.com/TalkUHulk/pixel2style2pixel-mobilenetv3.git
