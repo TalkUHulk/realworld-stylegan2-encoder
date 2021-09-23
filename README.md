@@ -63,11 +63,11 @@ The demo of different style with smile edit of e4e-res50-1024p
 ## Pretrained Models   
 
 I provide some of the model to test.
-| Path | Description
-| :--- | :----------
-|[torch weight](https://pan.baidu.com/s/1Gq0nV2Fn1jHhE-HQ9NhJEQ) | cartoon of e4e-mbv3 1024p and psp-mbv3 256p 密码: 0mgk
-|[onnx weight](https://pan.baidu.com/s/1jXv3aQX0wEDOjCWi_1seyg) | stylegan2 onnx, cartoon of e4e-mbv3 1024p and psp-mbv3 256p 密码: inn8
-|[openvino weight](https://pan.baidu.com/s/15w4gTOUbcjHw_cz9FGtXAw) | openvino cartoon of e4e-mbv3 1024p and psp-mbv3  密码: 759q
+| Google Drive | 百度云 | Description
+| :--- | :--- | :----------
+|[torch weight](https://drive.google.com/drive/folders/1jGStV3WNSCfXx6TO5__kDI9A2d7n3xc-) |[torch weight 密码:0mgk](https://pan.baidu.com/s/1Gq0nV2Fn1jHhE-HQ9NhJEQ) | cartoon of e4e-mbv3 1024p and psp-mbv3 256p
+|[onnx weight](https://drive.google.com/drive/folders/1GylU8IF5eB41Q53hK0KtRIXT68XQ28rW?usp=sharing) |[onnx weight 密码:inn8](https://pan.baidu.com/s/1jXv3aQX0wEDOjCWi_1seyg) | stylegan2 onnx, cartoon of e4e-mbv3 1024p and psp-mbv3 256p
+|[openvino weight](https://drive.google.com/drive/folders/1oBAwVUrfzB2myq0cxGxUL5m6I1R9nu_x?usp=sharing) |[openvino weight 密码:759q](https://pan.baidu.com/s/15w4gTOUbcjHw_cz9FGtXAw) | openvino cartoon of e4e-mbv3 1024p and psp-mbv3 
 
 ## Comparison
 *All test on MacOs 11.4 | 2.6 GHz Intel Core i7 | 32 GB 2667 MHz DDR4*
