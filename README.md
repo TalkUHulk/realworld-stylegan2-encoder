@@ -10,6 +10,11 @@
 <br>
 The demo of different style with age edit.</p>
 
+<p align="center">
+<img src="sample/demo.gif" width="800px"/>
+<br>
+The demo of different useage of stylegan(add interface by Qt. just personal entertainment).</p>
+
 ## Description  
 
 Various applications based on Stylegan2 Style mixing that can be inference on cpu.
